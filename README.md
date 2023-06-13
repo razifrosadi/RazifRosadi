@@ -4,7 +4,7 @@ Perkenalkan nama saya **Razif Ilham Rosadi**.
 
 Saya seorang **Front-End Developer** di [Dicoding](https://www.dicoding.com/).
 
-Saya bertanggung jawab pada kualitas materi Front-End Web Developer dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).
+Saya bertanggung jawab pada kualitas materi Front-End Web Developer dengan dibekali [sertifikasi dari program kampus merdeka](https://www.linkedin.com/in/razif-ilham-932465267/).
 
 Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
 
