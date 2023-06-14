@@ -6,7 +6,7 @@ Saya seorang **Front-End Developer** di [Dicoding](https://www.dicoding.com/).
 
 Saya bertanggung jawab pada kualitas materi Front-End Web Developer dengan dibekali [sertifikasi dari program kampus merdeka](https://www.linkedin.com/in/razif-ilham-932465267/).
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.
+Saya juga memiliki gelar [Sarjana Komputer](https://www.instagram.com/ummi_sukabumi/) lulusan tahun 2023.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/razif-ilham/)ku ya.
 
